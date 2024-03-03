@@ -44,15 +44,25 @@ To run this Expense Tracker project locally, follow these steps:
 5. View the transaction history below the form.
 6. Hover over a transaction to reveal a delete button. Click to remove a transaction.
 
-## Contributing
+# Contributing
 
-If you'd like to contribute to this project via UI Changes or New feature,
+If you'd like to contribute to this project via UI Changes or New features:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Submit a pull request with a detailed description of your changes.
+1. Fork the repository:
+   ```bash
+   git clone https://github.com/ayuxy027/Expense-Tracker-Project.git
+   cd Expense-Tracker-Project
+2. Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature-name
+3. Make your changes and commit them:
+   ```bash
+   git commit -m 'Add new feature'
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+5. Submit a pull request with the description of your changes.      
+
 
 ## Repository
 
