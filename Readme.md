@@ -51,6 +51,7 @@ If you'd like to contribute to this project via UI Changes or New features:
 1. Fork the repository:
    ```bash
    git clone https://github.com/ayuxy027/Expense-Tracker-Project.git
+   
    cd Expense-Tracker-Project
 2. Create a new branch for your feature or bug fix:
    ```bash
